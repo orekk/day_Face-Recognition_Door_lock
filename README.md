@@ -21,4 +21,4 @@ To do - if (intruder) send intruder's picture to app "INTRUDER ALERT"
 To do - Develop app to have section [ROOM SAFETY] "lock" "unlock"
 
 -- STAGE 3: KiCAD circuit drawing 
-To Do - research additional circuit components to ad to ESP32 an dadd this into KiCAD circuit drawing for solenoid circuit 
+To Do - research additional circuit components to add to ESP32 and add this into KiCAD circuit drawing for solenoid lock circuit 
