@@ -1,6 +1,6 @@
 # Day_Face-Recognition_Door_lock
 
-Developing IOS app using swift called day. The first feature in this application will be the Room safety tab. 
+Developing IOS app using swift. The first feature in this application will be the Room safety tab. 
 The room safety tab will be linked with bluetooth to the circuit diagram (1), containing a bluetooth ESP32 board and camera. 
 
 This tab will exist such that the user can press a "lock" and "unlock" key to lock the room or unlock it. These features will be embedded into the ESP32, signaling it to unlock the solenoid lock in the circuit or unlock it.
