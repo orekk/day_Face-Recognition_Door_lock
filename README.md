@@ -12,7 +12,7 @@ This app is currently in the works, but when it is finished screenshots of it's 
 
 
 STAGES OF THE PROJECT 
--- The main task of this project is interfacing ESP32 with IOS app via bluetooth
+-- The main task of this project is interfacing ESP32 with IOS app via bluefruit
 
 -- STAGE 1: Face recognition 
 To do - if (intruder) send intruder's picture to app "INTRUDER ALERT"
